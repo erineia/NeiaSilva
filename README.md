@@ -1,15 +1,15 @@
-# NeiaSilva
+<div style="background-color:#f0f8ff; padding: 20px; border-radius: 10px;">
 
-# 👋 Olá, eu sou a Neia Silva
+<h1 align="center">👋 Olá, eu sou a <span style="color:#FF4500;">Neia Silva</span></h1>
 
-🎯 **Analista de Qualidade | Programadora de Automação Web e API**  
-💻 **Especialista em Java | Selenium | RestAssured | JUnit | Allure Reports**  
+🎯 <b>Analista de Qualidade | Programadora de Automação Web e API</b>  
+💻 <b>Especialista em Java | Selenium | RestAssured | JUnit | Allure Reports</b>  
 
 ---
 
 ## 🚀 Sobre mim
 Sou apaixonada por qualidade de software e automação de testes.  
-Atuo no desenvolvimento e manutenção de scripts automatizados para **aplicações web** e **APIs**, garantindo entregas mais rápidas, seguras e eficientes.  
+Atuo no desenvolvimento e manutenção de scripts automatizados para <b>aplicações web</b> e <b>APIs</b>, garantindo entregas mais rápidas, seguras e eficientes.  
 
 💡 Busco sempre evoluir e aprender novas tecnologias que ajudem a melhorar a experiência do usuário e a qualidade dos sistemas.
 
@@ -45,6 +45,7 @@ Atuo no desenvolvimento e manutenção de scripts automatizados para **aplicaç�
 - Melhoria contínua em **processos de QA**
 
 ---
+
 ## 📚 Cursando Pós-graduação em Automação de Testes de Software
 
 ### **Módulos**
@@ -74,3 +75,5 @@ Atuo no desenvolvimento e manutenção de scripts automatizados para **aplicaç�
 ---
 
 ✨ _"Testar é a ponte entre o que foi criado e o que será usado."_  
+
+</div>
